@@ -94,8 +94,6 @@ dashboards for better decision-making.
 
 ---
 
-## 📁 Repository Structure
-
 
 ---
 
@@ -108,6 +106,13 @@ dashboards for better decision-making.
 ---
 
 ## 📌 Notes
-This is a beginner-level Power BI project created to demonstrate
-data visualization and analytical skills.
+1. This is a beginner-level Power BI project created to demonstrate data visualization and analytical skills.
+2. If you want to modify this dashboard feel free to do that.
+3. If you can counter some extra business problem just implement it and share with me.
+
+---
+
+## CONNECT WITH ME 
+1. Linkedin : https://www.linkedin.com/in/puskar-ghosal-2565a7254/
+2. Instagram : https://www.instagram.com/l_o_v_e.quote/
 
